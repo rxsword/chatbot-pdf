@@ -6,6 +6,5 @@ faiss-cpu
 tiktoken
 pypdf
 gradio
-huggingface_hub[hf_xet]
 gunicorn
 sentence-transformers
