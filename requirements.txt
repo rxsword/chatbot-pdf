@@ -1,7 +1,11 @@
 langchain
 langchain-community
-chromadb
-gradio
-pypdf
-sentence-transformers
 openai
+chromadb
+faiss-cpu
+tiktoken
+pypdf
+gradio
+huggingface_hub[hf_xet]
+gunicorn
+sentence-transformers
